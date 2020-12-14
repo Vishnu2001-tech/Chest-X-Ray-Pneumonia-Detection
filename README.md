@@ -6,6 +6,8 @@ The risk of pneumonia is immense for many, especially in developing nations wher
 # The Challenge
 To build an algorithm to automatically identify whether a patient is suffering from pneumonia or not by looking at chest X-ray images. The algorithm had to be extremely accurate because lives of people is at stake.
 
+# Data
+
 The dataset can be downloaded from the kaggle website 
 
 # Results
